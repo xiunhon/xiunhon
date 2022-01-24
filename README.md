@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xiunhon (pronounced like see-you)
+- 👋 Hi, my name is Xiu (pronounced like see-you)
 - 🌱 I’m currently learning Computer Science at CSULB
 - 📫 email me at xiu.tiennguyen@gmail.com
 
