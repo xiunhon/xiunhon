@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Xiu (pronounced like see-you)
-- 🌱 I’m currently learning Computer Science at CSULB
+- 🌱 I’m an undergrad of Computer Science at CSULB, 08/2023
 - 📫 email me at xiu.tiennguyen@gmail.com
 
 <!---
